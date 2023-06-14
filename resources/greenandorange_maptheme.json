@@ -1,7 +1,7 @@
 {
   "sky": {
     "type": "gradient",
-    "topColor": "#161719",
+    "topColor": "#0019ff",
     "bottomColor": "#262829",
     "groundColor": "#262829",
     "monomialPower": 1
@@ -690,7 +690,7 @@
         "technique": "solid-line",
         "renderOrder": 15.3,
         "final": true,
-        "color": "#ff6309",
+        "color": "#fff600",
         "lineWidth": [
           "interpolate",
           [
@@ -3033,7 +3033,7 @@
           4,
           60
         ],
-        "color": "#f4f4f4",
+        "color": "#141fe3",
         "backgroundColor": "#000000",
         "fontVariant": "SmallCaps",
         "opacity": 0.6
@@ -3060,7 +3060,7 @@
           ]
         ],
         "technique": "text",
-        "color": "#f4f4f4",
+        "color": "#141fe3",
         "backgroundColor": "#000000",
         "opacity": 0.6,
         "size": 16
@@ -3525,7 +3525,7 @@
           11,
           32
         ],
-        "color": "#f4f4f4",
+        "color": "#141fe3",
         "backgroundColor": "#000000",
         "backgroundOpacity": 0.5,
         "textFadeTime": 0.75,
@@ -3593,7 +3593,7 @@
           11,
           27.2
         ],
-        "color": "#f4f4f4",
+        "color": "#141fe3",
         "backgroundColor": "#000000",
         "backgroundOpacity": 0.5,
         "textFadeTime": 0.75,
@@ -3663,7 +3663,7 @@
           12,
           25.6
         ],
-        "color": "#f4f4f4",
+        "color": "#141fe3",
         "backgroundColor": "#000000",
         "backgroundOpacity": 0.5,
         "textFadeTime": 0.75,
@@ -3723,7 +3723,7 @@
           13,
           24
         ],
-        "color": "#f4f4f4",
+        "color": "#141fe3",
         "backgroundColor": "#000000",
         "backgroundOpacity": 0.5,
         "textFadeTime": 0.75,
@@ -3785,7 +3785,7 @@
           15,
           22.4
         ],
-        "color": "#f4f4f4",
+        "color": "#141fe3",
         "backgroundColor": "#000000",
         "backgroundOpacity": 0.5,
         "textFadeTime": 0.75,
@@ -3847,7 +3847,7 @@
           15,
           19.2
         ],
-        "color": "#f4f4f4",
+        "color": "#141fe3",
         "backgroundColor": "#000000",
         "backgroundOpacity": 0.5,
         "textFadeTime": 0.75,
@@ -3877,7 +3877,7 @@
         "technique": "extruded-polygon",
         "minZoomLevel": 16,
         "renderOrder": 2000,
-        "color": "#06f827",
+        "color": "#1F51FF",
         "opacity": 0.95,
         "roughness": 1,
         "metalness": 0.9,
